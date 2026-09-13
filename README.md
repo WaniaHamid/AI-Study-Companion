@@ -1,4 +1,4 @@
-# 🎓 AI Study Companion
+# AI Study Companion
 
 An AI-powered full-stack web application for students. Upload study materials, ask questions, generate quizzes, and track learning progress.
 
@@ -28,16 +28,12 @@ npm run dev
 
 Open http://localhost:3000
 
-## Full Guide
-
-See **`docs/GUIDE.md`** for complete setup instructions, API reference, troubleshooting, and deployment guide.
-
 ## Features
 
-- 📄 **Document Upload** — PDF, TXT, MD, DOCX with async text extraction
-- 🤖 **AI Q&A** — Context-aware answers via OpenAI GPT-4
-- ⚡ **Redis Caching** — Instant responses for repeated questions
-- 🧠 **Quiz Generation** — Auto-generated MCQs at 3 difficulty levels
-- 📊 **Analytics** — Weak topic detection, score trends, daily streaks
-- 🔐 **JWT Auth** — Secure login with access + refresh tokens
-- 📨 **Kafka Events** — Event-driven notifications between services
+- **Document Upload** — PDF, TXT, MD, DOCX with async text extraction
+- **AI Q&A** — Context-aware answers via OpenAI GPT-4
+- **Redis Caching** — Instant responses for repeated questions
+- **Quiz Generation** — Auto-generated MCQs at 3 difficulty levels
+- **Analytics** — Weak topic detection, score trends, daily streaks
+- **JWT Auth** — Secure login with access + refresh tokens
+- **Kafka Events** — Event-driven notifications between services
