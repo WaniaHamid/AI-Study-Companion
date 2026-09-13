@@ -204,10 +204,6 @@ The frontend uses environment variables for:
 - Backend API URL
 - Application configuration
 
-> **Security:** Actual `.env` and `.env.local` files are excluded from version control. Never commit API keys, database credentials, JWT secrets, or other private credentials.
-
----
-
 ## Learning Objectives
 
 This project was developed to explore the practical implementation of:
